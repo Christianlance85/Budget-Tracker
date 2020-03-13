@@ -18,6 +18,8 @@ So That I can identify trends in my spending
 
 ![Budget-Tracker](/public/other.JPG)
 
+My Browser is in Dark Mode so the application may appear different in theme.
+
 ## Heroku Link
 
 
