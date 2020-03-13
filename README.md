@@ -30,6 +30,7 @@ With GitHub account, clone or download repository using link.
 
 ## Usage
 
-This will application will assist users with storing workouts
-You are able to enter your workouts and track the output you give.
-and from there you can add new excercises or view your workouts.
+This will application will assist users with storing spending data
+You are able to enter your transactions and track the output you give.
+From there you can add new Transactions or view the transaction table 
+to give you an idea of ingoing and outgoing cashflow.
