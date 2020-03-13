@@ -16,7 +16,7 @@ So That I can identify trends in my spending
 
 ## Screenshot of Completed Application
 
-![Workout-Tracker](/public/images/other.JPG)
+![Budget-Tracker](/public/images//icons/other.JPG)
 
 ## Heroku Link
 
